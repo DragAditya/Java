@@ -1,5 +1,3 @@
-package Simple4;
-
 import java.util.Scanner;
 
 public class EvenOrOdd {
